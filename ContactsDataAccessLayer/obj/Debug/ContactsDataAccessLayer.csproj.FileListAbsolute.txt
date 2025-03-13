@@ -1,0 +1,6 @@
+D:\Programming\دورة محمد ابو هدهود\C# Level 01\16-OOP\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.dll
+D:\Programming\دورة محمد ابو هدهود\C# Level 01\16-OOP\ContactsDataAccessLayer\bin\Debug\ContactsDataAccessLayer.pdb
+D:\Programming\دورة محمد ابو هدهود\C# Level 01\16-OOP\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.AssemblyReference.cache
+D:\Programming\دورة محمد ابو هدهود\C# Level 01\16-OOP\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Programming\دورة محمد ابو هدهود\C# Level 01\16-OOP\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.dll
+D:\Programming\دورة محمد ابو هدهود\C# Level 01\16-OOP\ContactsDataAccessLayer\obj\Debug\ContactsDataAccessLayer.pdb

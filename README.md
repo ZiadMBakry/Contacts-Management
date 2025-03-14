@@ -31,12 +31,12 @@ This project is a desktop application designed to manage contact information. It
 ###### CRUD Operations
 
 ## ⚙️ How to Run the Project
-###### Clone the repository:
+##### Clone the repository:
 ```bash
 git clone https://github.com/ZiadMBakry/Contacts-Management.git
 ```
-###### Open the project using Visual Studio.
-###### Set up the SQL Server Database:
+##### Open the project using Visual Studio.
+##### Set up the SQL Server Database:
 1. Create a database (ContactsDB).
 2. Create Countries Table.
 ```bash
@@ -62,7 +62,7 @@ CREATE TABLE Contacts (
    ImagePath NVARCHAR(500)
 );
 ```
-###### Update connection string in App.config file to match your SQL Server settings.
+##### Update connection string in App.config file to match your SQL Server settings.
 
 Build and Run the project.
 

@@ -62,8 +62,7 @@ CREATE TABLE Contacts (
    ImagePath NVARCHAR(500)
 );
 ```
-Run the provided contacts.sql script to create the Contacts table.
-Update connection string in App.config file to match your SQL Server settings.
+###### Update connection string in App.config file to match your SQL Server settings.
 
 Build and Run the project.
 

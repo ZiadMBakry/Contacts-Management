@@ -35,14 +35,14 @@ This project is a desktop application designed to manage contact information. It
 `git clone https://github.com/ZiadMBakry/Contacts-Management.git`
 ###### Open the project using Visual Studio.
 ###### Set up the SQL Server Database:
-1. Create a database (ContactsDB).
-2. Create Countries Table
-``CREATE TABLE Countries (
+####### 1. Create a database (ContactsDB).
+####### 2. Create Countries Table
+`CREATE TABLE Countries (
     CountryID INT PRIMARY KEY IDENTITY(1,1),
     CountryName NVARCHAR(50) NOT NULL,
     CountryCode NVARCHAR(10) NULL,
     CountryPhoneCode NVARCHAR(10) NULL
-);``
+);`
 
 Run the provided contacts.sql script to create the Contacts table.
 Update connection string in App.config file to match your SQL Server settings.

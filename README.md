@@ -20,32 +20,17 @@ This project is a desktop application designed to manage contact information. It
 #### Search for contacts dynamically by name or other fields.
 #### Display all contacts in a table (DataGridView).
 #### Filter data according to the user's preference
+
 ## 💻 Technologies Used
-Programming Language: C#
-Framework: .NET Framework (Windows Forms)
-Database: SQL Server
-Data Access: ADO.NET (SQLConnection, SQLCommand, SQLDataAdapter)
-Concepts:
-Object-Oriented Programming (OOP)
-CRUD Operations
-GUI (Graphical User Interface)
-📂 Project Structure
-lua
-Copy
-Edit
-/ContactsManagementSystem
-|-- /bin
-|-- /obj
-|-- /Properties
-|-- /Forms
-|   |-- MainForm.cs
-|   |-- ContactForm.cs
-|-- /Database
-|   |-- contacts.sql (Database script)
-|-- Program.cs
-|-- App.config
-|-- README.md
-⚙️ How to Run the Project
+###### Programming Language: C#
+###### Framework: .NET Framework (Windows Forms)
+###### Database: SQL Server
+###### Data Access: ADO.NET (SQLConnection, SQLCommand, SQLDataAdapter)
+#### Concepts:
+###### Object-Oriented Programming (OOP)
+###### CRUD Operations
+
+## ⚙️ How to Run the Project
 Clone the repository:
 bash
 Copy

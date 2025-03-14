@@ -73,5 +73,3 @@ CREATE TABLE Contacts (
 ## 🙌 Author
 ###### Name: Ziad Bakry
 ###### Contact: **https://www.linkedin.com/in/ziad-bakry-b65b2b245/**
-🌐 License
-This project is licensed under the MIT License. See the LICENSE file for details.

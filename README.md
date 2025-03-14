@@ -37,13 +37,15 @@ This project is a desktop application designed to manage contact information. It
 ###### Set up the SQL Server Database:
 1. Create a database (ContactsDB).
 2. Create Countries Table.
-`CREATE TABLE Countries (
+```bash
+CREATE TABLE Countries (
    CountryID INT PRIMARY KEY IDENTITY(1,1),
    CountryName NVARCHAR(50) NOT NULL,
    CountryCode NVARCHAR(10),
    CountryPhoneCode NVARCHAR(10)
-);`
-3. Create Contacts Table.
+);
+```
+4. Create Contacts Table.
 `CREATE TABLE Contacts (
    ContactID INT PRIMARY KEY IDENTITY(1,1),
    FirstName NVARCHAR(100) NOT NULL,

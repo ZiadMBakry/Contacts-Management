@@ -2,10 +2,10 @@
 A simple Contacts Management System built with C# (.NET Framework) using Windows Forms and connected to a SQL Server Database via ADO.NET.
 The application allows users to manage their contacts easily, including adding, editing, deleting, Filteration and searching for contacts.
 
-### 📋 Project Description
+## 📋 Project Description
 This project is a desktop application designed to manage contact information. It demonstrates how to perform CRUD (Create, Read, Update, Delete) operations on a database using ADO.NET. The system provides a user-friendly interface to interact with the contact list.
 
-### ✅ Features
+## ✅ Features
 #### Add new contacts with details:
 ##### First Name
 ##### Last Name

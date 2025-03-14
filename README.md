@@ -7,8 +7,8 @@ This project is a desktop application designed to manage contact information. It
 
 ## ✅ Features
 #### Add new contacts with details:
-##### First Name
-##### Last Name
+First Name.
+Last Name.
 ##### Phone Number
 ##### Email
 ##### Address

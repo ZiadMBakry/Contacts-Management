@@ -32,7 +32,7 @@ This project is a desktop application designed to manage contact information. It
 
 ## ⚙️ How to Run the Project
 ###### Clone the repository:
-**git clone https://github.com/YourUsername/Contacts-Management-System.git**
+`git clone https://github.com/YourUsername/Contacts-Management-System.git`
 ###### Open the project using Visual Studio.
 
 Restore NuGet packages if required.

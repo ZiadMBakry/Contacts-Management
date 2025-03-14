@@ -8,18 +8,18 @@ This project is a desktop application designed to manage contact information. It
 ## ✅ Features
 #### Add new contacts with details:
 ###### First Name.
-Last Name.
-##### Phone Number
-##### Email
-##### Address
-##### Date Of Birth
-##### Image Path
-### Connect to SQL Server database using ADO.NET.
-### Edit and update existing contacts.
-### Delete contacts permanently.
-### Search for contacts dynamically by name or other fields.
-### Display all contacts in a table (DataGridView).
-### Filter data according to the user's preference
+###### Last Name.
+###### Phone Number
+###### Email
+###### Address
+###### Date Of Birth
+###### Image Path
+#### Connect to SQL Server database using ADO.NET.
+#### Edit and update existing contacts.
+#### Delete contacts permanently.
+#### Search for contacts dynamically by name or other fields.
+#### Display all contacts in a table (DataGridView).
+#### Filter data according to the user's preference
 ## 💻 Technologies Used
 Programming Language: C#
 Framework: .NET Framework (Windows Forms)

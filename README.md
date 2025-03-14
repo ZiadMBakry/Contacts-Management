@@ -64,27 +64,14 @@ CREATE TABLE Contacts (
 ```
 ##### Update connection string in App.config file to match your SQL Server settings.
 
-Build and Run the project.
+##### Build and Run the project.
 
-🔑 Database Table Structure
-sql
-Copy
-Edit
-CREATE TABLE Contacts (
-    Id INT PRIMARY KEY IDENTITY(1,1),
-    FullName NVARCHAR(100),
-    Phone NVARCHAR(20),
-    Email NVARCHAR(100),
-    Address NVARCHAR(255)
-);
-🚀 Future Improvements
-Add login and user authentication.
-Add data validation and error handling.
-Export contacts to CSV or Excel.
-Add image upload (profile picture for contacts).
-Move to Entity Framework for easier database handling.
-🙌 Author
-Name: Ziad Bakry
-Contact: [Your Email or LinkedIn]
+## 🚀 Future Improvements
+###### Add login and user authentication.
+###### Export contacts to CSV or Excel.
+###### Move to Entity Framework for easier database handling.
+## 🙌 Author
+###### Name: Ziad Bakry
+###### Contact: **https://www.linkedin.com/in/ziad-bakry-b65b2b245/**
 🌐 License
 This project is licensed under the MIT License. See the LICENSE file for details.

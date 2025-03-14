@@ -2,11 +2,11 @@
 A simple Contacts Management System built with C# (.NET Framework) using Windows Forms and connected to a SQL Server Database via ADO.NET.
 The application allows users to manage their contacts easily, including adding, editing, deleting, and searching for contacts.
 
-# 📋 Project Description
+## 📋 Project Description
 This project is a desktop application designed to manage contact information. It demonstrates how to perform CRUD (Create, Read, Update, Delete) operations on a database using ADO.NET. The system provides a user-friendly interface to interact with the contact list.
 
-# ✅ Features
-## Add new contacts with details:
+## ✅ Features
+### Add new contacts with details:
 First Name
 Last Name
 Phone Number
@@ -14,13 +14,13 @@ Email
 Address
 Date Of Birth
 Image Path
-## Connect to SQL Server database using ADO.NET.
-## Edit and update existing contacts.
-## Delete contacts permanently.
-## Search for contacts dynamically by name or other fields.
-## Display all contacts in a table (DataGridView).
-## Filter data according to the user's preference
-# 💻 Technologies Used
+### Connect to SQL Server database using ADO.NET.
+### Edit and update existing contacts.
+### Delete contacts permanently.
+### Search for contacts dynamically by name or other fields.
+### Display all contacts in a table (DataGridView).
+### Filter data according to the user's preference
+## 💻 Technologies Used
 Programming Language: C#
 Framework: .NET Framework (Windows Forms)
 Database: SQL Server

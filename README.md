@@ -32,7 +32,9 @@ This project is a desktop application designed to manage contact information. It
 
 ## ⚙️ How to Run the Project
 ###### Clone the repository:
-`git clone https://github.com/ZiadMBakry/Contacts-Management.git`
+```bash
+git clone https://github.com/ZiadMBakry/Contacts-Management.git
+```
 ###### Open the project using Visual Studio.
 ###### Set up the SQL Server Database:
 1. Create a database (ContactsDB).

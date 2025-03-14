@@ -37,6 +37,7 @@ This project is a desktop application designed to manage contact information. It
 ###### Set up the SQL Server Database:
 1. Create a database (ContactsDB).
 2. Create Countries Table
+`pash
 `CREATE TABLE Countries (
     CountryID INT PRIMARY KEY IDENTITY(1,1),
     CountryName NVARCHAR(50) NOT NULL,

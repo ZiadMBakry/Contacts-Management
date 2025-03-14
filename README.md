@@ -47,8 +47,9 @@ CREATE TABLE Countries (
    CountryPhoneCode NVARCHAR(10)
 );
 ```
-4. Create Contacts Table.
-`CREATE TABLE Contacts (
+3. Create Contacts Table.
+```bash
+CREATE TABLE Contacts (
    ContactID INT PRIMARY KEY IDENTITY(1,1),
    FirstName NVARCHAR(100) NOT NULL,
    LastName NVARCHAR(100) NOT NULL,
@@ -59,7 +60,8 @@ CREATE TABLE Countries (
    CountryId INT NOT NULL,
    CONSTRAINT FK_Contacts_Countries FOREIGN KEY (CountryID) REFERENCES Countries(CountryID),
    ImagePath NVARCHAR(500)
-);`
+);
+```
 Run the provided contacts.sql script to create the Contacts table.
 Update connection string in App.config file to match your SQL Server settings.
 
